@@ -1,27 +1,19 @@
-Welcome to Glitch
-=================
+<center><a href="https://bit.ly/xirdcsunucu" target="_blank"><img src="https://i.postimg.cc/6p1LGw3M/xirbrand.png"></a></center>
 
-Click `Show` in the header to see your app live. Updates to your code will instantly deploy and update live.
+## XiR Bot Project
 
-**Glitch** is the friendly community where you'll build the app of your dreams. Glitch lets you instantly create, remix, edit, and host an app, bot or site, and you can invite collaborators or helpers to simultaneously edit code with you.
+Discord Glitch Bot 7/24 Aktif - Bot Dosyaları
+<br>
+Discord Botumuz: https://bitly.com/xirdavet
+<br>
+Discord Sunucumuz: https://bitly.com/xirdcsunucu
+<br>
+Bot Website: https://xir.glitch.me
 
-Find out more [about Glitch](https://glitch.com/about).
+Tüm Komutlara Ulaşmak için discord sunucumuza gelin https://bit.ly/xirdcsunucu Sizde 7/24 çalışan bot yapmak isterseniz hemen videomuzu izleyin
+https://www.youtube.com/watch?v=LosLPMZiDqc
 
+Otorol Komutu Videomuz:
+https://www.youtube.com/watch?v=aQQzgRlZ69c
 
-Your Project
-------------
-
-On the front-end,
-- edit `public/client.js`, `public/style.css` and `views/index.html`
-- drag in `assets`, like images or music, to add them to your project
-
-On the back-end,
-- your app starts at `server.js`
-- add frameworks and packages in `package.json`
-- safely store app secrets in `.env` (nobody can see this but you and people you invite)
-
-
-Made by [Glitch](https://glitch.com/)
--------------------
-
-\ ゜o゜)ノ
+Detaylı Bilgi vb: MeliL#7408
